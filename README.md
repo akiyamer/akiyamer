@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### 字节内推，请发简历至xuhongzhe@bytedance.com
+- 🔭 I’m currently working on Tencent
+- 📫 How to reach me: milonovxu@tencent.com
 
 ![Milo's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiyamer&show_icons=true&theme=vue)
 
