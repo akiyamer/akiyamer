@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Tencent
-- 📫 How to reach me: milonovxu@tencent.com
+- 📫 How to reach me: 1019892846@qq.com
 
 ![Milo's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiyamer&show_icons=true&theme=vue)
 
